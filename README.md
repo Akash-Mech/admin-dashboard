@@ -19,7 +19,7 @@ A static admin dashboard featuring a dark/light theme toggle. This dashboard is 
 
 ## Important Packages
 
-- **react-chartjs-2:** 
+- **react-chartjs-2** 
 
 ## Live Demo
 
