@@ -1,6 +1,6 @@
 # Static Admin Dashboard
 
-![Admin Dashboard](https://app.netlify.com/.netlify/images?url=https:…24-08-03-06-23-10-0000.webp&fit=cover&h=500&w=800)
+![Admin Dashboard](https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66adcc94bed91700087aa233/screenshot_2024-08-03-06-23-10-0000.webp&fit=cover&h=500&w=800)
 
 
 A static admin dashboard featuring a dark/light theme toggle. This dashboard is designed for efficient data visualization and management, providing an intuitive interface with various charts and controls.
